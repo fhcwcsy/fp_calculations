@@ -1,0 +1,672 @@
+a= 2.6
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.257291290958E+01    0.25729E+01   -0.31373E+03   768   0.810E+02
+DAV:   2    -0.101429843131E+02   -0.12716E+02   -0.12180E+02   744   0.101E+02
+DAV:   3    -0.101935297477E+02   -0.50545E-01   -0.50522E-01   856   0.799E+00
+DAV:   4    -0.101938211455E+02   -0.29140E-03   -0.29140E-03   816   0.531E-01
+DAV:   5    -0.101938232017E+02   -0.20562E-05   -0.20558E-05   832   0.331E-02    0.823E+00
+DAV:   6    -0.894577661913E+01    0.12480E+01   -0.90558E+00   712   0.515E+01    0.503E-01
+DAV:   7    -0.888647898321E+01    0.59298E-01   -0.12782E-01   712   0.641E+00    0.601E-01
+DAV:   8    -0.886119499143E+01    0.25284E-01   -0.15664E-02   952   0.104E+00    0.662E-02
+DAV:   9    -0.886119235599E+01    0.26354E-05   -0.23494E-04   792   0.262E-01    0.252E-02
+DAV:  10    -0.886121055926E+01   -0.18203E-04   -0.98211E-06   768   0.525E-02    0.149E-03
+DAV:  11    -0.886121032378E+01    0.23548E-06   -0.52309E-08   368   0.342E-03
+   1 F= -.88612103E+01 E0= -.88620215E+01  d E =0.243363E-02
+a= 2.61
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.333063165170E+01    0.33306E+01   -0.30746E+03   736   0.811E+02
+DAV:   2    -0.101725755043E+02   -0.13503E+02   -0.12832E+02   736   0.102E+02
+DAV:   3    -0.102362325986E+02   -0.63657E-01   -0.63645E-01   872   0.898E+00
+DAV:   4    -0.102365592504E+02   -0.32665E-03   -0.32665E-03   792   0.528E-01
+DAV:   5    -0.102365619254E+02   -0.26750E-05   -0.26759E-05   888   0.403E-02    0.827E+00
+DAV:   6    -0.897400182439E+01    0.12626E+01   -0.93838E+00   712   0.524E+01    0.528E-01
+DAV:   7    -0.891390921996E+01    0.60093E-01   -0.14908E-01   712   0.687E+00    0.603E-01
+DAV:   8    -0.888896560442E+01    0.24944E-01   -0.16226E-02   960   0.105E+00    0.686E-02
+DAV:   9    -0.888895544762E+01    0.10157E-04   -0.27715E-04   776   0.285E-01    0.250E-02
+DAV:  10    -0.888897376110E+01   -0.18313E-04   -0.10294E-05   784   0.540E-02    0.181E-03
+DAV:  11    -0.888897346393E+01    0.29718E-06   -0.56485E-08   360   0.309E-03
+   1 F= -.88889735E+01 E0= -.88897967E+01  d E =0.246968E-02
+a= 2.62
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.199547314876E+01    0.19955E+01   -0.29801E+03   752   0.790E+02
+DAV:   2    -0.102222786172E+02   -0.12218E+02   -0.11763E+02   728   0.101E+02
+DAV:   3    -0.102745385522E+02   -0.52260E-01   -0.52235E-01   872   0.816E+00
+DAV:   4    -0.102747643552E+02   -0.22580E-03   -0.22580E-03   784   0.442E-01
+DAV:   5    -0.102747664498E+02   -0.20946E-05   -0.20947E-05   912   0.347E-02    0.831E+00
+DAV:   6    -0.899727172750E+01    0.12775E+01   -0.97186E+00   712   0.531E+01    0.564E-01
+DAV:   7    -0.893622257937E+01    0.61049E-01   -0.17179E-01   712   0.729E+00    0.603E-01
+DAV:   8    -0.891166032399E+01    0.24562E-01   -0.16789E-02   968   0.106E+00    0.712E-02
+DAV:   9    -0.891164141165E+01    0.18912E-04   -0.32551E-04   784   0.308E-01    0.248E-02
+DAV:  10    -0.891165955431E+01   -0.18143E-04   -0.10579E-05   776   0.548E-02    0.215E-03
+DAV:  11    -0.891165918907E+01    0.36524E-06   -0.68160E-08   360   0.289E-03
+   1 F= -.89116592E+01 E0= -.89124524E+01  d E =0.237955E-02
+a= 2.63
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.242589236304E+01    0.24259E+01   -0.29798E+03   760   0.785E+02
+DAV:   2    -0.102477487053E+02   -0.12674E+02   -0.12053E+02   736   0.989E+01
+DAV:   3    -0.103091343780E+02   -0.61386E-01   -0.61346E-01   888   0.878E+00
+DAV:   4    -0.103093932356E+02   -0.25886E-03   -0.25885E-03   760   0.442E-01
+DAV:   5    -0.103093959262E+02   -0.26906E-05   -0.26915E-05   904   0.397E-02    0.835E+00
+DAV:   6    -0.901744701403E+01    0.12919E+01   -0.10056E+01   712   0.537E+01    0.609E-01
+DAV:   7    -0.895519888959E+01    0.62248E-01   -0.19640E-01   712   0.771E+00    0.604E-01
+DAV:   8    -0.893101712448E+01    0.24182E-01   -0.17382E-02  1008   0.107E+00    0.738E-02
+DAV:   9    -0.893098831882E+01    0.28806E-04   -0.37559E-04   776   0.329E-01    0.246E-02
+DAV:  10    -0.893100635155E+01   -0.18033E-04   -0.10908E-05   784   0.557E-02    0.260E-03
+DAV:  11    -0.893100588718E+01    0.46438E-06   -0.90727E-08   352   0.298E-03
+   1 F= -.89310059E+01 E0= -.89317697E+01  d E =0.229155E-02
+a= 2.64
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.238378782652E+01    0.23838E+01   -0.31454E+03   744   0.790E+02
+DAV:   2    -0.102797549486E+02   -0.12664E+02   -0.12105E+02   728   0.102E+02
+DAV:   3    -0.103404323461E+02   -0.60677E-01   -0.60635E-01   888   0.876E+00
+DAV:   4    -0.103407308059E+02   -0.29846E-03   -0.29846E-03   792   0.516E-01
+DAV:   5    -0.103407331028E+02   -0.22969E-05   -0.22972E-05   888   0.379E-02    0.839E+00
+DAV:   6    -0.903569619888E+01    0.13050E+01   -0.10396E+01   712   0.544E+01    0.664E-01
+DAV:   7    -0.897183666912E+01    0.63860E-01   -0.22391E-01   712   0.816E+00    0.606E-01
+DAV:   8    -0.894799140004E+01    0.23845E-01   -0.18127E-02  1040   0.109E+00    0.770E-02
+DAV:   9    -0.894795079810E+01    0.40602E-04   -0.44132E-04   776   0.356E-01    0.245E-02
+DAV:  10    -0.894796852625E+01   -0.17728E-04   -0.11324E-05   800   0.568E-02    0.286E-03
+DAV:  11    -0.894796800578E+01    0.52047E-06   -0.10436E-07   352   0.306E-03
+   1 F= -.89479680E+01 E0= -.89486745E+01  d E =0.211934E-02
+a= 2.65
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.186342211757E+01    0.18634E+01   -0.30856E+03   744   0.781E+02
+DAV:   2    -0.103135450089E+02   -0.12177E+02   -0.11621E+02   752   0.101E+02
+DAV:   3    -0.103684930160E+02   -0.54948E-01   -0.54911E-01   912   0.826E+00
+DAV:   4    -0.103687432045E+02   -0.25019E-03   -0.25018E-03   776   0.442E-01
+DAV:   5    -0.103687446557E+02   -0.14512E-05   -0.14507E-05   928   0.270E-02    0.842E+00
+DAV:   6    -0.905140748055E+01    0.13173E+01   -0.10740E+01   712   0.552E+01    0.726E-01
+DAV:   7    -0.898561721732E+01    0.65790E-01   -0.25395E-01   712   0.862E+00    0.608E-01
+DAV:   8    -0.896209733294E+01    0.23520E-01   -0.18992E-02  1024   0.111E+00    0.806E-02
+DAV:   9    -0.896204276129E+01    0.54572E-04   -0.51527E-04   760   0.383E-01    0.244E-02
+DAV:  10    -0.896206029469E+01   -0.17533E-04   -0.11860E-05   832   0.584E-02    0.319E-03
+DAV:  11    -0.896205970525E+01    0.58945E-06   -0.12107E-07   368   0.320E-03
+   1 F= -.89620597E+01 E0= -.89627571E+01  d E =0.209227E-02
+a= 2.66
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.176173780514E+01    0.17617E+01   -0.30343E+03   760   0.789E+02
+DAV:   2    -0.103316620423E+02   -0.12093E+02   -0.11365E+02   720   0.943E+01
+DAV:   3    -0.103927001058E+02   -0.61038E-01   -0.61009E-01   888   0.877E+00
+DAV:   4    -0.103930241427E+02   -0.32404E-03   -0.32403E-03   784   0.516E-01
+DAV:   5    -0.103930270594E+02   -0.29167E-05   -0.29158E-05   912   0.389E-02    0.846E+00
+DAV:   6    -0.906344422538E+01    0.13296E+01   -0.11088E+01   712   0.558E+01    0.792E-01
+DAV:   7    -0.899550472411E+01    0.67940E-01   -0.28597E-01   712   0.906E+00    0.611E-01
+DAV:   8    -0.897233207453E+01    0.23173E-01   -0.19949E-02  1024   0.114E+00    0.849E-02
+DAV:   9    -0.897226099968E+01    0.71075E-04   -0.60556E-04   752   0.413E-01    0.243E-02
+DAV:  10    -0.897227814303E+01   -0.17143E-04   -0.12543E-05   824   0.600E-02    0.348E-03
+DAV:  11    -0.897227749672E+01    0.64631E-06   -0.13625E-07   368   0.336E-03
+   1 F= -.89722775E+01 E0= -.89729365E+01  d E =0.197707E-02
+a= 2.67
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.237019427999E+01    0.23702E+01   -0.30039E+03   736   0.785E+02
+DAV:   2    -0.103517861523E+02   -0.12722E+02   -0.12146E+02   720   0.101E+02
+DAV:   3    -0.104141528067E+02   -0.62367E-01   -0.62357E-01   912   0.901E+00
+DAV:   4    -0.104144584213E+02   -0.30561E-03   -0.30561E-03   776   0.537E-01
+DAV:   5    -0.104144611608E+02   -0.27395E-05   -0.27395E-05   920   0.439E-02    0.849E+00
+DAV:   6    -0.907422063653E+01    0.13402E+01   -0.11438E+01   712   0.566E+01    0.864E-01
+DAV:   7    -0.900371216489E+01    0.70508E-01   -0.32141E-01   712   0.954E+00    0.614E-01
+DAV:   8    -0.898083672317E+01    0.22875E-01   -0.21071E-02  1032   0.118E+00    0.894E-02
+DAV:   9    -0.898074673375E+01    0.89989E-04   -0.71025E-04   744   0.446E-01    0.243E-02
+DAV:  10    -0.898076350369E+01   -0.16770E-04   -0.13238E-05   856   0.617E-02    0.376E-03
+DAV:  11    -0.898076281022E+01    0.69346E-06   -0.14918E-07   368   0.349E-03
+   1 F= -.89807628E+01 E0= -.89814172E+01  d E =0.196307E-02
+a= 2.68
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.355135613998E+01    0.35514E+01   -0.29394E+03   704   0.771E+02
+DAV:   2    -0.103636509164E+02   -0.13915E+02   -0.13484E+02   704   0.106E+02
+DAV:   3    -0.104321138211E+02   -0.68463E-01   -0.68419E-01   896   0.943E+00
+DAV:   4    -0.104324950670E+02   -0.38125E-03   -0.38124E-03   792   0.608E-01
+DAV:   5    -0.104324982498E+02   -0.31828E-05   -0.31823E-05   864   0.453E-02    0.853E+00
+DAV:   6    -0.908162530299E+01    0.13509E+01   -0.11791E+01   712   0.572E+01    0.939E-01
+DAV:   7    -0.900834232072E+01    0.73283E-01   -0.35876E-01   712   0.999E+00    0.617E-01
+DAV:   8    -0.898578186621E+01    0.22560E-01   -0.22302E-02  1032   0.123E+00    0.946E-02
+DAV:   9    -0.898566970991E+01    0.11216E-03   -0.83398E-04   752   0.481E-01    0.243E-02
+DAV:  10    -0.898568589513E+01   -0.16185E-04   -0.14192E-05   840   0.637E-02    0.398E-03
+DAV:  11    -0.898568518245E+01    0.71268E-06   -0.14574E-07   392   0.351E-03
+   1 F= -.89856852E+01 E0= -.89862749E+01  d E =0.176916E-02
+a= 2.69
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.202453563772E+01    0.20245E+01   -0.30111E+03   728   0.773E+02
+DAV:   2    -0.103869890912E+02   -0.12412E+02   -0.12092E+02   736   0.101E+02
+DAV:   3    -0.104473105848E+02   -0.60321E-01   -0.60296E-01   872   0.863E+00
+DAV:   4    -0.104475988513E+02   -0.28827E-03   -0.28826E-03   848   0.497E-01
+DAV:   5    -0.104476010017E+02   -0.21504E-05   -0.21504E-05   848   0.335E-02    0.856E+00
+DAV:   6    -0.908718244058E+01    0.13604E+01   -0.12148E+01   712   0.579E+01    0.102E+00
+DAV:   7    -0.901073704040E+01    0.76445E-01   -0.39950E-01   712   0.105E+01    0.622E-01
+DAV:   8    -0.898846198645E+01    0.22275E-01   -0.23748E-02  1032   0.128E+00    0.101E-01
+DAV:   9    -0.898832395209E+01    0.13803E-03   -0.98181E-04   752   0.519E-01    0.244E-02
+DAV:  10    -0.898833950865E+01   -0.15557E-04   -0.15434E-05   832   0.664E-02    0.421E-03
+DAV:  11    -0.898833878718E+01    0.72147E-06   -0.13701E-07   384   0.347E-03
+   1 F= -.89883388E+01 E0= -.89889173E+01  d E =0.173554E-02
+a= 2.7
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.199093972425E+01    0.19909E+01   -0.29695E+03   736   0.762E+02
+DAV:   2    -0.103951185252E+02   -0.12386E+02   -0.11664E+02   728   0.958E+01
+DAV:   3    -0.104589135662E+02   -0.63795E-01   -0.63765E-01   864   0.891E+00
+DAV:   4    -0.104593157338E+02   -0.40217E-03   -0.40216E-03   824   0.616E-01
+DAV:   5    -0.104593184631E+02   -0.27293E-05   -0.27284E-05   872   0.398E-02    0.860E+00
+DAV:   6    -0.908903944745E+01    0.13703E+01   -0.12509E+01   712   0.584E+01    0.110E+00
+DAV:   7    -0.900928763134E+01    0.79752E-01   -0.44179E-01   712   0.109E+01    0.625E-01
+DAV:   8    -0.898733198751E+01    0.21956E-01   -0.25284E-02  1008   0.134E+00    0.107E-01
+DAV:   9    -0.898716399452E+01    0.16799E-03   -0.11524E-03   752   0.558E-01    0.246E-02
+DAV:  10    -0.898717877073E+01   -0.14776E-04   -0.16653E-05   840   0.686E-02    0.450E-03
+DAV:  11    -0.898717803944E+01    0.73128E-06   -0.14124E-07   384   0.360E-03
+   1 F= -.89871780E+01 E0= -.89876997E+01  d E =0.156495E-02
+a= 2.71
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.351869354161E+01    0.35187E+01   -0.30900E+03   712   0.764E+02
+DAV:   2    -0.103987518767E+02   -0.13917E+02   -0.13481E+02   736   0.105E+02
+DAV:   3    -0.104684108355E+02   -0.69659E-01   -0.69559E-01   880   0.937E+00
+DAV:   4    -0.104688123127E+02   -0.40148E-03   -0.40145E-03   848   0.610E-01
+DAV:   5    -0.104688149545E+02   -0.26418E-05   -0.26421E-05   848   0.350E-02    0.863E+00
+DAV:   6    -0.909101556507E+01    0.13778E+01   -0.12870E+01   712   0.591E+01    0.118E+00
+DAV:   7    -0.900735397866E+01    0.83662E-01   -0.48936E-01   728   0.114E+01    0.631E-01
+DAV:   8    -0.898563240897E+01    0.21722E-01   -0.27211E-02   968   0.142E+00    0.114E-01
+DAV:   9    -0.898542862474E+01    0.20378E-03   -0.13619E-03   792   0.605E-01    0.249E-02
+DAV:  10    -0.898544248364E+01   -0.13859E-04   -0.18932E-05   816   0.728E-02    0.456E-03
+DAV:  11    -0.898544181887E+01    0.66477E-06   -0.99054E-08   400   0.316E-03
+   1 F= -.89854418E+01 E0= -.89858738E+01  d E =0.129582E-02
+a= 2.72
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.296567291019E+01    0.29657E+01   -0.30583E+03   728   0.755E+02
+DAV:   2    -0.104030759613E+02   -0.13369E+02   -0.12836E+02   720   0.103E+02
+DAV:   3    -0.104746649458E+02   -0.71589E-01   -0.71556E-01   912   0.960E+00
+DAV:   4    -0.104750532125E+02   -0.38827E-03   -0.38826E-03   792   0.612E-01
+DAV:   5    -0.104750574085E+02   -0.41960E-05   -0.41954E-05   856   0.519E-02    0.866E+00
+DAV:   6    -0.908943414773E+01    0.13856E+01   -0.13237E+01   712   0.597E+01    0.127E+00
+DAV:   7    -0.900169618360E+01    0.87738E-01   -0.53863E-01   728   0.119E+01    0.637E-01
+DAV:   8    -0.898024294505E+01    0.21453E-01   -0.29263E-02   984   0.150E+00    0.122E-01
+DAV:   9    -0.897999840130E+01    0.24454E-03   -0.15953E-03   760   0.651E-01    0.253E-02
+DAV:  10    -0.898001119897E+01   -0.12798E-04   -0.21053E-05   840   0.761E-02    0.490E-03
+DAV:  11    -0.898001060215E+01    0.59682E-06   -0.91176E-08   400   0.316E-03
+   1 F= -.89800106E+01 E0= -.89803426E+01  d E =0.995949E-03
+a= 2.73
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.404019499881E+01    0.40402E+01   -0.30131E+03   736   0.767E+02
+DAV:   2    -0.104051812163E+02   -0.14445E+02   -0.13989E+02   720   0.104E+02
+DAV:   3    -0.104783858905E+02   -0.73205E-01   -0.73165E-01   912   0.951E+00
+DAV:   4    -0.104787503398E+02   -0.36445E-03   -0.36444E-03   816   0.580E-01
+DAV:   5    -0.104787540370E+02   -0.36973E-05   -0.36976E-05   864   0.453E-02    0.869E+00
+DAV:   6    -0.908618730875E+01    0.13926E+01   -0.13605E+01   712   0.602E+01    0.136E+00
+DAV:   7    -0.899403416835E+01    0.92153E-01   -0.59091E-01   728   0.123E+01    0.643E-01
+DAV:   8    -0.897283133509E+01    0.21203E-01   -0.31598E-02   968   0.160E+00    0.131E-01
+DAV:   9    -0.897253850214E+01    0.29283E-03   -0.18749E-03   776   0.701E-01    0.256E-02
+DAV:  10    -0.897255032333E+01   -0.11821E-04   -0.22801E-05   840   0.785E-02    0.533E-03
+DAV:  11    -0.897254973755E+01    0.58579E-06   -0.10605E-07   360   0.351E-03
+   1 F= -.89725497E+01 E0= -.89727967E+01  d E =0.740846E-03
+a= 2.74
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.517972095157E+01    0.51797E+01   -0.29845E+03   712   0.790E+02
+DAV:   2    -0.104007873192E+02   -0.15581E+02   -0.15218E+02   728   0.108E+02
+DAV:   3    -0.104799527398E+02   -0.79165E-01   -0.79136E-01   944   0.986E+00
+DAV:   4    -0.104802259038E+02   -0.27316E-03   -0.27316E-03   800   0.473E-01
+DAV:   5    -0.104802286990E+02   -0.27952E-05   -0.27939E-05   848   0.362E-02    0.871E+00
+DAV:   6    -0.908221275444E+01    0.13980E+01   -0.13973E+01   728   0.609E+01    0.145E+00
+DAV:   7    -0.898517483853E+01    0.97038E-01   -0.64695E-01   712   0.128E+01    0.650E-01
+DAV:   8    -0.896417924386E+01    0.20996E-01   -0.34130E-02   960   0.170E+00    0.140E-01
+DAV:   9    -0.896383721691E+01    0.34203E-03   -0.21621E-03   752   0.751E-01    0.261E-02
+DAV:  10    -0.896384765388E+01   -0.10437E-04   -0.26345E-05   840   0.835E-02    0.556E-03
+DAV:  11    -0.896384713152E+01    0.52236E-06   -0.95443E-08   400   0.329E-03
+   1 F= -.89638471E+01 E0= -.89640178E+01  d E =0.511972E-03
+a= 2.75
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.394408837328E+01    0.39441E+01   -0.29426E+03   728   0.743E+02
+DAV:   2    -0.104050596192E+02   -0.14349E+02   -0.14038E+02   712   0.108E+02
+DAV:   3    -0.104785615328E+02   -0.73502E-01   -0.73482E-01   960   0.967E+00
+DAV:   4    -0.104788734194E+02   -0.31189E-03   -0.31188E-03   760   0.518E-01
+DAV:   5    -0.104788766391E+02   -0.32198E-05   -0.32199E-05   912   0.422E-02    0.874E+00
+DAV:   6    -0.907575347784E+01    0.14031E+01   -0.14346E+01   712   0.614E+01    0.154E+00
+DAV:   7    -0.897356034951E+01    0.10219E+00   -0.70604E-01   712   0.133E+01    0.657E-01
+DAV:   8    -0.895278184450E+01    0.20779E-01   -0.36745E-02   960   0.180E+00    0.148E-01
+DAV:   9    -0.895238539999E+01    0.39644E-03   -0.24734E-03   720   0.799E-01    0.266E-02
+DAV:  10    -0.895239502792E+01   -0.96279E-05   -0.28907E-05   848   0.869E-02    0.596E-03
+DAV:  11    -0.895239462347E+01    0.40445E-06   -0.10790E-07   376   0.375E-03
+   1 F= -.89523946E+01 E0= -.89524562E+01  d E =0.184805E-03
+a= 2.76
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.495020927987E+01    0.49502E+01   -0.30326E+03   720   0.748E+02
+DAV:   2    -0.104080732051E+02   -0.15358E+02   -0.14972E+02   744   0.107E+02
+DAV:   3    -0.104752279692E+02   -0.67155E-01   -0.67112E-01   960   0.916E+00
+DAV:   4    -0.104754893211E+02   -0.26135E-03   -0.26135E-03   800   0.443E-01
+DAV:   5    -0.104754920834E+02   -0.27623E-05   -0.27629E-05   920   0.365E-02    0.876E+00
+DAV:   6    -0.906868122838E+01    0.14068E+01   -0.14720E+01   712   0.621E+01    0.164E+00
+DAV:   7    -0.896085779020E+01    0.10782E+00   -0.77327E-01   712   0.138E+01    0.665E-01
+DAV:   8    -0.894025419955E+01    0.20604E-01   -0.39620E-02   912   0.191E+00    0.156E-01
+DAV:   9    -0.893979914229E+01    0.45506E-03   -0.28143E-03   720   0.851E-01    0.272E-02
+DAV:  10    -0.893980724339E+01   -0.81011E-05   -0.32853E-05   848   0.915E-02    0.626E-03
+DAV:  11    -0.893980690846E+01    0.33493E-06   -0.11799E-07   392   0.379E-03
+   1 F= -.89398069E+01 E0= -.89397570E+01  d E =-.149759E-03
+a= 2.77
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.113894450134E+01    0.11389E+01   -0.30271E+03   776   0.749E+02
+DAV:   2    -0.104015645902E+02   -0.11541E+02   -0.10389E+02   720   0.902E+01
+DAV:   3    -0.104691600859E+02   -0.67595E-01   -0.67554E-01   952   0.894E+00
+DAV:   4    -0.104694723800E+02   -0.31229E-03   -0.31229E-03   784   0.496E-01
+DAV:   5    -0.104694760129E+02   -0.36329E-05   -0.36331E-05   912   0.434E-02    0.879E+00
+DAV:   6    -0.905923323710E+01    0.14102E+01   -0.15098E+01   712   0.626E+01    0.174E+00
+DAV:   7    -0.894552335579E+01    0.11371E+00   -0.84337E-01   712   0.143E+01    0.673E-01
+DAV:   8    -0.892511348702E+01    0.20410E-01   -0.42527E-02   880   0.202E+00    0.165E-01
+DAV:   9    -0.892459728219E+01    0.51620E-03   -0.31672E-03   728   0.899E-01    0.276E-02
+DAV:  10    -0.892460418492E+01   -0.69027E-05   -0.35626E-05   848   0.947E-02    0.665E-03
+DAV:  11    -0.892460388637E+01    0.29856E-06   -0.13926E-07   400   0.422E-03
+   1 F= -.89246039E+01 E0= -.89244858E+01  d E =-.354326E-03
+a= 2.78
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.404232092102E+01    0.40423E+01   -0.29450E+03   752   0.763E+02
+DAV:   2    -0.103893177673E+02   -0.14432E+02   -0.13954E+02   720   0.104E+02
+DAV:   3    -0.104606425649E+02   -0.71325E-01   -0.71285E-01   920   0.937E+00
+DAV:   4    -0.104609632466E+02   -0.32068E-03   -0.32068E-03   776   0.546E-01
+DAV:   5    -0.104609666301E+02   -0.33835E-05   -0.33840E-05   952   0.463E-02    0.881E+00
+DAV:   6    -0.904731471611E+01    0.14137E+01   -0.15478E+01   712   0.630E+01    0.183E+00
+DAV:   7    -0.892751742765E+01    0.11980E+00   -0.91537E-01   712   0.147E+01    0.679E-01
+DAV:   8    -0.890732818623E+01    0.20189E-01   -0.45199E-02   880   0.211E+00    0.172E-01
+DAV:   9    -0.890675484798E+01    0.57334E-03   -0.34849E-03   728   0.938E-01    0.281E-02
+DAV:  10    -0.890676040457E+01   -0.55566E-05   -0.39155E-05   848   0.984E-02    0.695E-03
+DAV:  11    -0.890676012486E+01    0.27971E-06   -0.15423E-07   376   0.446E-03
+   1 F= -.89067601E+01 E0= -.89065549E+01  d E =-.615743E-03
+a= 2.79
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.402042831647E+01    0.40204E+01   -0.30215E+03   744   0.774E+02
+DAV:   2    -0.103678997101E+02   -0.14388E+02   -0.14072E+02   712   0.104E+02
+DAV:   3    -0.104504838206E+02   -0.82584E-01   -0.82537E-01   920   0.102E+01
+DAV:   4    -0.104510408027E+02   -0.55698E-03   -0.55697E-03   800   0.704E-01
+DAV:   5    -0.104510470550E+02   -0.62523E-05   -0.62527E-05   912   0.588E-02    0.884E+00
+DAV:   6    -0.903689255779E+01    0.14142E+01   -0.15856E+01   712   0.637E+01    0.193E+00
+DAV:   7    -0.891021602710E+01    0.12668E+00   -0.99346E-01   712   0.152E+01    0.687E-01
+DAV:   8    -0.889013996798E+01    0.20076E-01   -0.48285E-02   816   0.221E+00    0.179E-01
+DAV:   9    -0.888950598535E+01    0.63398E-03   -0.38264E-03   728   0.985E-01    0.289E-02
+DAV:  10    -0.888951013196E+01   -0.41466E-05   -0.45226E-05   880   0.105E-01    0.706E-03
+DAV:  11    -0.888950992419E+01    0.20777E-06   -0.16139E-07   416   0.421E-03
+   1 F= -.88895099E+01 E0= -.88891688E+01  d E =-.102327E-02
+a= 2.8
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.299300589138E+01    0.29930E+01   -0.30297E+03   752   0.751E+02
+DAV:   2    -0.103652379560E+02   -0.13358E+02   -0.12692E+02   712   0.101E+02
+DAV:   3    -0.104381845383E+02   -0.72947E-01   -0.72909E-01   960   0.948E+00
+DAV:   4    -0.104384489492E+02   -0.26441E-03   -0.26440E-03   792   0.446E-01
+DAV:   5    -0.104384514758E+02   -0.25266E-05   -0.25269E-05   928   0.343E-02    0.886E+00
+DAV:   6    -0.902297168727E+01    0.14155E+01   -0.16241E+01   720   0.641E+01    0.203E+00
+DAV:   7    -0.888932678676E+01    0.13364E+00   -0.10715E+00   712   0.157E+01    0.694E-01
+DAV:   8    -0.886943151605E+01    0.19895E-01   -0.51157E-02   800   0.231E+00    0.186E-01
+DAV:   9    -0.886873659596E+01    0.69492E-03   -0.41574E-03   720   0.102E+00    0.294E-02
+DAV:  10    -0.886873945429E+01   -0.28583E-05   -0.48343E-05   856   0.108E-01    0.749E-03
+DAV:  11    -0.886873919999E+01    0.25429E-06   -0.18135E-07   384   0.467E-03
+   1 F= -.88687392E+01 E0= -.88682924E+01  d E =-.134039E-02
+a= 2.81
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.357981466379E+01    0.35798E+01   -0.30497E+03   736   0.751E+02
+DAV:   2    -0.103498248291E+02   -0.13930E+02   -0.13515E+02   712   0.102E+02
+DAV:   3    -0.104238158658E+02   -0.73991E-01   -0.73920E-01   992   0.946E+00
+DAV:   4    -0.104241048662E+02   -0.28900E-03   -0.28900E-03   760   0.491E-01
+DAV:   5    -0.104241075455E+02   -0.26793E-05   -0.26799E-05   952   0.373E-02    0.888E+00
+DAV:   6    -0.900868781120E+01    0.14154E+01   -0.16622E+01   720   0.647E+01    0.212E+00
+DAV:   7    -0.886767391228E+01    0.14101E+00   -0.11523E+00   712   0.162E+01    0.701E-01
+DAV:   8    -0.884792559488E+01    0.19748E-01   -0.53906E-02   792   0.239E+00    0.191E-01
+DAV:   9    -0.884717488186E+01    0.75071E-03   -0.44500E-03   736   0.106E+00    0.297E-02
+DAV:  10    -0.884717666430E+01   -0.17824E-05   -0.50511E-05   872   0.110E-01    0.793E-03
+DAV:  11    -0.884717637200E+01    0.29230E-06   -0.20355E-07   416   0.521E-03
+   1 F= -.88471764E+01 E0= -.88466415E+01  d E =-.160469E-02
+a= 2.82
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.350432048438E+01    0.35043E+01   -0.30788E+03   744   0.737E+02
+DAV:   2    -0.103391788549E+02   -0.13843E+02   -0.13236E+02   736   0.976E+01
+DAV:   3    -0.104072903513E+02   -0.68111E-01   -0.68055E-01   912   0.907E+00
+DAV:   4    -0.104075749548E+02   -0.28460E-03   -0.28459E-03   864   0.506E-01
+DAV:   5    -0.104075770866E+02   -0.21318E-05   -0.21316E-05   856   0.330E-02    0.890E+00
+DAV:   6    -0.899234283349E+01    0.14152E+01   -0.17007E+01   720   0.651E+01    0.222E+00
+DAV:   7    -0.884370368345E+01    0.14864E+00   -0.12343E+00   712   0.166E+01    0.707E-01
+DAV:   8    -0.882412564301E+01    0.19578E-01   -0.56377E-02   800   0.246E+00    0.195E-01
+DAV:   9    -0.882332398625E+01    0.80166E-03   -0.47011E-03   728   0.108E+00    0.301E-02
+DAV:  10    -0.882332464410E+01   -0.65785E-06   -0.52306E-05   888   0.112E-01    0.844E-03
+DAV:  11    -0.882332428844E+01    0.35566E-06   -0.23803E-07   408   0.600E-03
+   1 F= -.88233243E+01 E0= -.88226783E+01  d E =-.193811E-02
+a= 2.83
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Fe
+ POSCAR found :  1 types and       1 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.383072380392E+01    0.38307E+01   -0.30244E+03   736   0.745E+02
+DAV:   2    -0.103133696298E+02   -0.14144E+02   -0.13749E+02   720   0.101E+02
+DAV:   3    -0.103890835166E+02   -0.75714E-01   -0.75707E-01   936   0.966E+00
+DAV:   4    -0.103893814093E+02   -0.29789E-03   -0.29789E-03   840   0.503E-01
+DAV:   5    -0.103893839566E+02   -0.25473E-05   -0.25485E-05   904   0.348E-02    0.892E+00
+DAV:   6    -0.897628732564E+01    0.14131E+01   -0.17394E+01   720   0.657E+01    0.232E+00
+DAV:   7    -0.881935772932E+01    0.15693E+00   -0.13212E+00   712   0.171E+01    0.713E-01
+DAV:   8    -0.879990247369E+01    0.19455E-01   -0.58783E-02   776   0.254E+00    0.199E-01
+DAV:   9    -0.879905513969E+01    0.84733E-03   -0.49093E-03   728   0.111E+00    0.304E-02
+DAV:  10    -0.879905475494E+01    0.38474E-06   -0.54500E-05   856   0.114E-01    0.886E-03
+DAV:  11    -0.879905434667E+01    0.40827E-06   -0.27805E-07   424   0.669E-03
+   1 F= -.87990543E+01 E0= -.87982500E+01  d E =-.241307E-02

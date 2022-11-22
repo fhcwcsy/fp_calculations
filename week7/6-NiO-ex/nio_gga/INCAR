@@ -1,0 +1,24 @@
+NiO GGA AFM
+  SYSTEM   = "NiO"
+
+Electronic minimization
+  ENCUT    = 450
+  EDIFF    = 1E-5
+  LORBIT   = 11
+  LREAL    = .False.
+  ISTART   = 0
+  NELMIN   = 6
+
+DOS
+  ISMEAR   = -5
+
+Magnetism
+  ISPIN    = 2
+  MAGMOM   = 2.0 -2.0 2*0  # AFM order
+  # MAGMOM   = 2.0 2.0 2*0 # FM order
+
+Mixer
+  AMIX     = 0.2
+  BMIX     = 0.00001
+  AMIX_MAG = 0.8
+  BMIX_MAG = 0.00001 

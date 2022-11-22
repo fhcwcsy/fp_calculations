@@ -1,0 +1,4 @@
+System = graphene (bilayer layer)
+ENCUT = 600
+EDIFF = 1e-6
+ISMEAR = -5

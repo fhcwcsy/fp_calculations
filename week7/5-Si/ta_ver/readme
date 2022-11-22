@@ -1,0 +1,3 @@
+1. you can calculate and plot band diagram & DOS with the procedure we learned from last time(see slides for Au case).
+2. get the band or dos post processing programs from the directory last time
+3. you can use vim or xmgrace to check band gap from band-p.dat and dos.dat

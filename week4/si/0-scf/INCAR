@@ -1,0 +1,6 @@
+System = diamond Si
+RWIGS = 1.61626
+EDIFF = 1.0E-7
+ENCUT = 500
+ISMEAR = -5
+SIGMA = 0.05

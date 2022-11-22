@@ -1,0 +1,12 @@
+System = NiO_af2
+RWIGS = 1.286 0.820
+ISPIN = 2
+MAGMOM = 2.0 -2.0 2*0
+LORBIT = 11
+ICHARG = 11
+LCHARG = F
+LWAVE = F
+LDAU = T
+LDAUTYPE = 2
+LDAUL = 2 -1 # 2:d orbital, -1: no on-site U
+LDAUU = 7 0 # 7 for Ni, 0 for O

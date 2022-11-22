@@ -1,0 +1,5 @@
+System = Si
+LOPTICS = T
+ICHARG = 11
+LCHARG = .FALSE.
+ISMEAR = 0

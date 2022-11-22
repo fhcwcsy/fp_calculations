@@ -1,0 +1,7 @@
+System = bulk MoS2
+EDIFF = 1E-6
+ENCUT = 500
+LWAVE = F
+ISMEAR = 0
+ICHARG = 11
+LCHARG = .FALSE.

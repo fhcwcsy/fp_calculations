@@ -1,0 +1,13 @@
+System = fcc Ni
+RWIGS = 1.37
+EDIFF = 1E-7
+ENCUT = 500
+ISPIN = 2
+MAGMOM = 1
+LWAVE = F
+
+ISTART = 0
+ICHARG = 2
+ISMEAR = 1
+SIGMA = 0.2
+LORBIT = 11

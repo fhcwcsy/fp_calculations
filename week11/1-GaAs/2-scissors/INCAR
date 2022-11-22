@@ -1,0 +1,5 @@
+System = GaAs
+RWIGS = 1.217 1.217
+LOPTICS = T
+ISMEAR = -4
+SCISSOR = 1.0762

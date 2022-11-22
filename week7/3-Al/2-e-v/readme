@@ -1,0 +1,2 @@
+you need to rewrite run.sh using the lattice constant you calculated
+$ qsub run.sh

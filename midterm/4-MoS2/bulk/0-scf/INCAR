@@ -1,0 +1,5 @@
+System = bulk MoS2
+EDIFF = 1E-6
+ENCUT = 500
+LWAVE = F
+ISMEAR = -5

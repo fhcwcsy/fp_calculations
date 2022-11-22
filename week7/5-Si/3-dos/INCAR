@@ -1,0 +1,7 @@
+System = Si
+EDIFF = 1E-6
+ICHARG = 11
+LCHARG = F
+LWAVE = F
+IMEAR = -5
+LORBIT = 11

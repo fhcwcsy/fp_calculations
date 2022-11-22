@@ -1,0 +1,4 @@
+System = graphite
+RWIGS = 0.863
+LOPTICS = T
+ISMEAR = -4

@@ -1,0 +1,6 @@
+System = Nb gaussian
+ENCUT = 300
+EDIFF = 1e-7
+ISMEAR = 0
+ICHARG = 11
+LCHARG = .FALSE.

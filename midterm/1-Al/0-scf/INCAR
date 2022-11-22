@@ -1,0 +1,5 @@
+System = fcc Al
+EDIFF = 1E-6
+ENCUT = 500
+LWAVE = F
+ISMEAR = -5

@@ -1,0 +1,25 @@
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Si
+ POSCAR found :  1 types and       2 ions
+ scaLAPACK will be used
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ WARNING: stress and forces are not correct
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ reading imaginary part of occupancies ...
+ charge-density read from file: Si                                      
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1    -0.142608015713E+00   -0.14261E+00   -0.21747E+03  1600   0.427E+02
+DAV:   2    -0.991959535332E+01   -0.97770E+01   -0.92116E+01  2512   0.557E+01
+DAV:   3    -0.100405925736E+02   -0.12100E+00   -0.12091E+00  2056   0.744E+00
+DAV:   4    -0.100409345350E+02   -0.34196E-03   -0.34196E-03  2648   0.409E-01
+DAV:   5    -0.100409349309E+02   -0.39583E-06   -0.39612E-06  2032   0.944E-03
+DAV:   6    -0.100409349363E+02   -0.54260E-08   -0.50579E-08  2576   0.675E-04
+   1 F= -.10040935E+02 E0= -.10041785E+02  d E =0.255166E-02

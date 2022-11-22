@@ -1,0 +1,4 @@
+System = W bcc
+RWIGS = 1.455
+LOPTICS = T
+NBANDS = 20

@@ -1,0 +1,4 @@
+System = bcc Na
+RWIGS = 1.757
+EDIFF = 1E-6
+LWAVE = F

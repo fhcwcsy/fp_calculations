@@ -1,0 +1,6 @@
+System = graphene (single layer)
+ENCUT = 300
+EDIFF = 1e-6
+ICHARG 11
+LCHARG = .FALSE.
+ISMEAR = 0

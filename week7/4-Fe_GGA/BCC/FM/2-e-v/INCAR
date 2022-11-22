@@ -1,0 +1,5 @@
+System = bcc Fe
+EDIFF = 1E-6
+ISPIN = 2
+MAGMOM = 3
+LWAVE = F

@@ -1,0 +1,3 @@
+EDIFF = 1E-6
+ENCUT = 600 
+ISMEAR = -5

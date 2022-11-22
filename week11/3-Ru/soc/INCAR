@@ -1,0 +1,5 @@
+System = hcp Ru
+LOPTICS = T
+NBANDS = 20
+LSORBIT = .TRUE.
+SAXIS = 0 0 1

@@ -1,0 +1,6 @@
+System = Nb tetrahedron
+ENCUT = 300
+EDIFF = 1e-7
+ISMEAR = -5
+ICHARG = 11
+LCHARG = .FALSE.

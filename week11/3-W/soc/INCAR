@@ -1,0 +1,4 @@
+System = W bcc
+LOPTICS = T
+LSORBIT = .TRUE.
+SAXIS = 0 0 1

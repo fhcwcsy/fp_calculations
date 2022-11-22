@@ -1,0 +1,6 @@
+System = fcc Al
+EDIFF = 1E-6
+ENCUT = 500
+LWAVE = F
+ICHARG = 11
+LCHARG = .FALSE.

@@ -1,0 +1,6 @@
+System = Au fcc
+RWIGS = 1.503
+LOPTICS = T
+LSORBIT = .TRUE.
+SAXIS = 0 0 1
+NBANDS = 20

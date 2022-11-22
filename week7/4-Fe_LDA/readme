@@ -1,0 +1,7 @@
+1.this directory only have results using LDA pseudopotential
+2.please plot eV curve for BCC;FM & FCC;FM & BCC;NM & FCC;NM, then comment on the ground state for different lattice constant
+
+
+3.use GGA pesudopotential and redo everything on your own(POTCAR is in the directory above)
+
+4.is LDA or GGA more suitable to describe the ground state of iron?

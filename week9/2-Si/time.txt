@@ -1,0 +1,12 @@
+Si primitive 10 tetrahedron 1.259
+Si primitive 10 gaussian 1.261
+Si primitive 16 tetrahedron 3.200
+Si primitive 16 gaussian 3.122
+Si primitive 20 tetrahedron 5.476
+Si primitive 20 gaussian 5.333
+Si sic 10 tetrahedron 24.520
+Si sic 10 gaussian 24.491
+Si sic 16 tetrahedron 69.815
+Si sic 16 gaussian 69.596
+Si sic 20 tetrahedron 120.451
+Si sic 20 gaussian 118.636

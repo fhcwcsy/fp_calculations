@@ -1,0 +1,13 @@
+Step 1.) Determine equilibrium lattice constant: loop.job
+To make a quick plot of SUMMARY.dia try:
+
+gnuplot
+
+gnuplot> plot "SUMMARY.dia" using ($1):($4) w lp
+
+Step 2.) Enter the correct equilibrium lattice constant in the POSCAR file
+
+Step 3.) Determine the density-of-states: dos.job
+
+Step 4.) Calculate the bandstructure; band.job
+N.B.: you need the CHGCAR file from step 3. 

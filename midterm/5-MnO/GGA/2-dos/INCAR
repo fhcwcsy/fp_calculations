@@ -1,0 +1,8 @@
+System = MnO double cell
+ISPIN = 2
+MAGMOM = 2.0 -2.0 2*0
+LORBIT = 11
+ISMEAR = -5
+ICHARG = 11
+LCHARG = .FALSE.
+LWAVE = F

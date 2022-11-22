@@ -1,0 +1,31 @@
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build May 20 2018 16:52:39) complex          
+  
+ POSCAR found type information on POSCAR  Ni O 
+ POSCAR found :  2 types and       4 ions
+ scaLAPACK will be used
+ WARNING: type information on POSCAR and POTCAR are incompatible
+ POTCAR overwrites the type information in POSCAR
+ typ   1 type information:  Ni Mn
+ LDA part: xc-table for Ceperly-Alder, standard interpolation
+ WARNING: stress and forces are not correct
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ WAVECAR not read
+ reading imaginary part of occupancies ...
+ charge-density read from file: MnO                                     
+ reading imaginary part of occupancies ...
+ magnetization density read from file 1
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.214849836264E+03    0.21485E+03   -0.10622E+04 13688   0.151E+03
+DAV:   2     0.531586419966E+01   -0.20953E+03   -0.20583E+03 13631   0.389E+02
+DAV:   3    -0.298898452926E+02   -0.35206E+02   -0.33536E+02 24734   0.140E+02
+DAV:   4    -0.311695682591E+02   -0.12797E+01   -0.12406E+01 18096   0.315E+01
+DAV:   5    -0.312066802422E+02   -0.37112E-01   -0.36878E-01 22190   0.489E+00
+DAV:   6    -0.312072665532E+02   -0.58631E-03   -0.58590E-03 20638   0.583E-01
+DAV:   7    -0.312072774673E+02   -0.10914E-04   -0.10910E-04 17465   0.788E-02
+   1 F= -.31207277E+02 E0= -.31211626E+02  d E =0.130445E-01  mag=    -0.0000

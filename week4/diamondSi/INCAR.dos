@@ -1,0 +1,6 @@
+general:
+ System = diamond Si
+ ISTART = 0 ; ICHARG=2
+ ENCUT  =    240
+ ISMEAR = -5
+ LORBIT = 11

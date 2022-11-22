@@ -1,0 +1,5 @@
+System = GaAs
+EDIFF = 1E-6
+IBRION = 2
+ISMEAR = -5
+LWAVE = F

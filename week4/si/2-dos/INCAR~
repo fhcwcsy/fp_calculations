@@ -1,0 +1,9 @@
+System = diamond Si
+ICHARG = 11
+LORBIT = 10
+LCHARG = .FALSE.
+RWIGS = 1.61626
+ISMEAR = -5
+LWAVE = F
+
+ENCUT = 500

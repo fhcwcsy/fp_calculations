@@ -1,0 +1,6 @@
+produce LOCPOT for work-function calculations.
+use ./ave-mesh.x to average out LOCPOT in the x & y direction (choose"LOCPOT" mode)
+you will then get a averaged potential as a function of x
+the difference : V(infinity)-fermi_energy is the work function
+
+

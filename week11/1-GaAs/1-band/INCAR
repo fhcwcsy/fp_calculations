@@ -1,0 +1,6 @@
+System = GaAs
+RWIGS = 1.217 1.217
+LOPTICS = T
+ICHARG = 11
+LCHARG = .FALSE.
+ISMEAR = 0

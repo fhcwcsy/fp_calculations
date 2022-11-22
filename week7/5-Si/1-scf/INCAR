@@ -1,0 +1,4 @@
+System = Si
+EDIFF = 1E-6
+ISMEAR = -5
+LWAVE = F

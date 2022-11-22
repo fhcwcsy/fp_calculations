@@ -1,0 +1,5 @@
+System = AuAl2
+LOPTICS = .TRUE.
+NBANDS = 30
+LSORBIT = .TRUE.
+SAXIS = 0 0 1

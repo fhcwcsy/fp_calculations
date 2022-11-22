@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<modeling>
+ <generator>
+  <i name="program" type="string">vasp </i>
+  <i name="version" type="string">5.4.4.18Apr17-6-g9f103f2a35  </i>
+  <i name="subversion" type="string">(build May 20 2018 16:52:39) complex            parallel </i>
+  <i name="platform" type="string">LinuxIFC </i>
+  <i name="date" type="string">2022 10 01 </i>
+  <i name="time" type="string">21:42:13 </i>
+ </generator>
+ <incar>
+  <i type="string" name="SYSTEM"> diamond Si</i>
+  <i type="string" name="PREC">normal</i>
+  <i name="EDIFF">      0.00000010</i>
+  <i name="ENCUT">    500.00000000</i>
+  <v name="RWIGS">      1.61626000</v>
+  <i type="int" name="ISMEAR">    -5</i>
+  <i name="SIGMA">      0.05000000</i>
+  <v type="int" name="KPOINT_BSE">    -1     0     0     0</v>
+ </incar>
+ <structure name="primitive_cell" >
+  <crystal>
+   <varray name="basis" >
+    <v>       0.00000000       2.71500000       2.71500000 </v>
+    <v>       2.71500000       0.00000000       2.71500000 </v>
+    <v>       2.71500000       2.71500000       0.00000000 </v>
+   </varray>
+   <i name="volume">     40.02575175 </i>
+   <varray name="rec_basis" >
+    <v>      -0.18416206       0.18416206       0.18416206 </v>
+    <v>       0.18416206      -0.18416206       0.18416206 </v>
+    <v>       0.18416206       0.18416206      -0.18416206 </v>
+   </varray>
+  </crystal>
+  <varray name="positions" >
+   <v>       0.00000000       0.00000000       0.00000000 </v>
+   <v>       0.25000000       0.25000000       0.25000000 </v>
+  </varray>
+ </structure>
+ <varray name="primitive_index" >
+  <v type="int" >        1 </v>
+  <v type="int" >        2 </v>
+ </varray>

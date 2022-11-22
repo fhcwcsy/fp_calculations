@@ -1,0 +1,4 @@
+System = Nb
+ENCUT = 300
+EDIFF = 1e-7
+ISMEAR = -5

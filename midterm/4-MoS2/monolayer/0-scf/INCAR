@@ -1,0 +1,4 @@
+System = bulk MoS2
+EDIFF = 1E-6
+LWAVE = F
+ISMEAR = -5
